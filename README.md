@@ -29,3 +29,7 @@ taken for each bottle leaving the production line so faults occurring in bottles
 detected separately when these particular bottles are themselves photographed central to the
 image. Additionally, some images may have no bottle in the center of the image – this is not a fault,
 just a gap in the production flow stemming from a machine operating further up the line. Faults with
+side bottles and missing bottles must be ignored by your system – only the seven faults above must
+be reported. You can tackle each of the cases in any order you wish.
+Some examples will contain more than one fault with the central bottle but these cases are rare –
+identify as many as you can.
